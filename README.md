@@ -93,10 +93,3 @@ This is a **demonstration prototype**, not a safety-certified barrier controller
 
 The seminar report will cover the system overview, hardware components, software development, implementation, tests, and results. Diagrams and photos can be added to this repository as the project progresses.
 
-## Repository
-
-[BLUSA Smart Parking System on GitHub](https://github.com/carlotamorenouclm/Blusa-Smart-Parking-System)
-
-## License
-
-No license has been specified yet. Add a `LICENSE` file if you want to define permissions for reuse and distribution.
